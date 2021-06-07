@@ -10,7 +10,7 @@ permalink: /:title:output_ext
 plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
 
 #Pagination
-paginate: 10
+paginate: 20
 paginate_path: "/page:num/"
 
 #SEO
