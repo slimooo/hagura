@@ -1,45 +1,36 @@
-### your site title here
+# Site settings
+title: Touhami Blog
+url:  "https://touhami.fr" # Actual base url of the website
+baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
+author:
+  name: "Teal'c"
+permalink: /:title:output_ext
 
-title: Hagura - Light!
-Url: https://touhami.fr
-email: bonjour@touhami.fr
+#Plugins
+plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
 
+#Pagination
+paginate: 10
+paginate_path: "/page:num/"
 
+#SEO
 
-highlighter: rouge
-markdown: kramdown
+lang: fr_FR
 
+#Highlighter
+kramdown:
+  input:          GFM
+  syntax_highlighter: rouge
 
-paginate: 4
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
 
-
-
-
-#optimization
-#compress.html
-compress_html:
-  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
-  comments: ["<!-- ", " -->"]
-  endings: [all]
-  ignore:
-    envs: [local]
-  blanklines: false
-  profile: false
-  startings: []
-
-
+#Sass
 sass:
-  sass_dir: /assets/css/_sass
   style: compressed
-
-include:
-  - _pages
-
-exclude:
-  - README.md
-  - LICENSE.md
-
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-paginate
+  sourcemap: never
