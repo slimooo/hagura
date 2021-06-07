@@ -2,7 +2,7 @@
 layout: post
 title:  "Mutualisation du délégué à la protection des données"
 author: "Tealc"
-tags: RGPD
+categories: [RGPD]
 ---
 
 # Contexte

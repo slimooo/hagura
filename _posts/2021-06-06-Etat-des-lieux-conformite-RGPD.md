@@ -2,7 +2,7 @@
 layout: post
 title:  "Etat des lieux conformité RGPD"
 author: "Tealc"
-tags: RGPD
+categories: [RGPD]
 ---
 
 # Préambule

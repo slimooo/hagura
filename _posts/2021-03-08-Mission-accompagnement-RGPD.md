@@ -2,7 +2,7 @@
 layout: post
 title:  "Mission d'accompagnement à la mise en conformité RGPD"
 author: "Tealc"
-tags: RGPD
+categories: [RGPD]
 ---
 
 # Contexte

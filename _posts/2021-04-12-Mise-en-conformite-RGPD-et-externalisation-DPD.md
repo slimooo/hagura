@@ -2,7 +2,7 @@
 layout: post
 title:  "Mise en conformité RGPD et externalisation d’un DPD"
 author: "Tealc"
-tags: RGPD
+categories: [RGPD]
 ---
 
 # Objet du contrat

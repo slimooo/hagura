@@ -2,7 +2,7 @@
 layout: post
 title:  "Délégué à la protection des données (data  protection officer -DPO) dans le cadre du règlement général sur la  protection des données"
 author: "Tealc"
-tags: RGPD
+categories: [RGPD]
 ---
 
 # Présentation du projet
