@@ -1,8 +1,8 @@
 ### your site title here
 
 title: Hagura - Light!
-baseurl: /hagura # name of the repository
-email: your@email.com
+Url: https://touhami.fr
+email: bonjour@touhami.fr
 
 
 
@@ -13,11 +13,6 @@ markdown: kramdown
 paginate: 4
 
 
-# Tracker
-analytics: UA-83979019-4
-
-# Comments
-disqus-shortname: webjeda-demo
 
 
 #optimization
