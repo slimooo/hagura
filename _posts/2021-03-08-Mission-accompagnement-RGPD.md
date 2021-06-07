@@ -22,7 +22,7 @@ L’objet du présent contrat consiste en une mission d’accompagnement à la m
 Cette mission d’accompagnement consiste en : 
 - Phase 1 : Réalisation d’un Diagnostic / Audit de la CA et ses communes membres (recensement des traitements des données personnelles détenues et analyse de la sécurité informatique), 
 - Phase 2 : l’élaboration d’un plan d’actions priorisé identifiant les mesures techniques et organisationnelles à prendre pour une mise en conformité au RGPD.
-- 
+
 ## Audit / Diagnostic
 L’audit à réaliser comprend deux volets : 
 
