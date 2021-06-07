@@ -6,16 +6,16 @@ subtitle:
   active: true
   text: Yet Another Minimal Theme
 
-#Nav 
+#Nav
 nav:
   pages:
-    active: true
+    active: false
   social:
-    active: true
+    active: false
 
 #Featured images in homepage
 featured-img:
-  active: true
+  active: false
 
 #Show categories at the end of posts
 categories:
@@ -23,7 +23,7 @@ categories:
 
 #Show date and read time under the post title
 date-under-post:
-  active: true
+  active: false
 
 #Use MathJAX
 mathjax:
@@ -32,7 +32,7 @@ mathjax:
 #Show related posts based on categories
 related-posts:
   active: true
-  title: "You May Also Enjoy"
+  title: "Cela pourrait vous intéresser :"
 
 #Comments
-comments: true
+comments: false
