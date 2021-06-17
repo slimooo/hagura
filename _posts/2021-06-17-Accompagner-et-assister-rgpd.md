@@ -35,7 +35,8 @@ En outre, il appartiendra au prestataire de préciser les structures du projet q
 Cependant, les points suivants ont déjà été validés :
 - Le délégué à la protection des données interne et le Directeur de la maitrise de la performance (ou leur représentant) assumeront la fonction de chef de projet interne et seront les deux interlocuteurs privilégiés du prestataire.
 - Un comité de pilotage sera institué qui aura pour fonction de valider les productions intermédiaires et finales  et les préconisations du prestataire.
-- Des comités techniques et/ou groupes de travail auront pour fonction de préparer et de suivre les différents travaux relatifs au projet. Ils associeront les collaborateurs concernés. 
+- Des comités techniques et/ou groupes de travail auront pour fonction de préparer et de suivre les différents travaux relatifs au projet. Ils associeront les collaborateurs concernés.
+
 # Périmètre des missions
 L’ensemble des missions et prestations attendues du titulaire devront être appliquées à l’ensemble des activités et missions.
 
